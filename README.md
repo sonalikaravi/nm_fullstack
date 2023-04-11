@@ -1,4 +1,4 @@
-#nm_fullstack
+# nm_fullstack
 ## OBJECTIVES:
 
 The primary objective of the food delivery website is to provide customers with a convenient and user-friendly platform to order food online. The website will offer a broad range of local restaurants, cuisines, and delivery options to customers. The website will also enable restaurant owners to expand their reach and connect with a broader customer base.
